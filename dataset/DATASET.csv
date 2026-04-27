@@ -1,0 +1,26 @@
+Description,Issue Category
+Firefox add-on compilation fails due to API deprecation.,Build & Compilation Issues
+Mozilla Firefox freezes while streaming videos in full-screen mode.,Crash & Failure Issues
+Visual Studio Code fails to detect Python virtual environment.,Functionality & Behavior Issues
+Eclipse IDE startup time increases significantly with large workspaces.,Performance & Resource Issues
+Firefox does not correctly render fonts on Linux distributions.,UI & Display Issues
+VS Code slows down when handling large JSON files.,Performance & Resource Issues
+Incognito mode fails to clear history after session ends in Google Chrome.,Functionality & Behavior Issues
+Chrome DevTools takes too long to profile JavaScript execution.,Performance & Resource Issues
+Dark mode in Google Chrome does not apply correctly to all UI elements.,UI & Display Issues
+Eclipse IDE does not auto-suggest imports for Java projects.,Functionality & Behavior Issues
+Eclipse reports missing class files even though dependencies exist.,Build & Compilation Issues
+Firefox crashes on certain websites with complex CSS animations.,Crash & Failure Issues
+Bookmarks do not sync across devices in Mozilla Firefox.,Functionality & Behavior Issues
+Eclipse IDE becomes unresponsive when indexing large projects.,Crash & Failure Issues
+Eclipse IDE fails to compile Java projects with specific JDK versions.,Build & Compilation Issues
+Google Chrome crashes when opening multiple tabs with heavy JavaScript content.,Crash & Failure Issues
+Firefox lags significantly when scrolling through long web pages.,Performance & Resource Issues
+VS Code does not detect C++ compilers on Windows.,Build & Compilation Issues
+VS Code sidebar icons disappear after updating the application.,UI & Display Issues
+Tabs in Google Chrome do not show favicons correctly.,UI & Display Issues
+Google Chrome extension fails to build due to missing dependencies.,Build & Compilation Issues
+Google Chrome consumes excessive RAM when opening multiple tabs.,Performance & Resource Issues
+Eclipse IDE UI becomes distorted on high-DPI screens.,UI & Display Issues
+Text editor in VS Code does not save changes intermittently.,Functionality & Behavior Issues
+VS Code crashes when opening a workspace with too many extensions.,Crash & Failure Issues

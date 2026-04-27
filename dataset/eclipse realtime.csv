@@ -1,0 +1,36 @@
+﻿Description ,Category
+only one element simultaneously can be added to the selection view via drag & drop. Especially for larger models it's suitbale to mark several elements and drop them into the selection view.,Functionality & Behavior Issues
+"Upon modification to org.eclipse.m2e.runtime plugin, Content Assist stops working.",Functionality & Behavior Issues
+Unresolved Breakpoint when installing a breakpoint by double clicking the ruler,Functionality & Behavior Issues
+[EGL] TemplateFactory#load template root directory not properly set for nested loads,Functionality & Behavior Issues
+Unexpected behaviour when using char type,Functionality & Behavior Issues
+Unexpected type inference and resolution of method references with Collectors.groupingBy,Functionality & Behavior Issues
+IDE crashes when VAR config table in the resource deployment view should be displayed, Crash & Failure Issues
+"TimoutException on HyperlinkDetector, especially when just opening the file", Crash & Failure Issues
+Unknown source of reading pin failed error, Crash & Failure Issues
+SegFault may appear on Modbus Poll while terminate FB, Crash & Failure Issues
+Eclipse Freeze when canceling CompareDialog for new XMI-Instances, Crash & Failure Issues
+"AuT crash with ""Connection is not Available"" at ""Accept License"" dialog", Crash & Failure Issues
+"Crash on wake up on MacBook Pro 2016 (13,3)", Crash & Failure Issues
+Gradle does not add module dependencies to the module path, Build & Compilation Issues
+SSLHandshakeException: unable to find valid certification path to requested target, Build & Compilation Issues
+"Forward inferencing gives correct type suggestion, error in compilation", Build & Compilation Issues
+internal compiler error with AjcXmlTask (parallel testing), Build & Compilation Issues
+Full Builds when a single aspect change (even trivial spell correction in advice body), Build & Compilation Issues
+StringIndexOutOfBoundsException during compilation, Build & Compilation Issues
+"(dependency, OTDT, RSE) - RSE 4.5.300 triggers unresolvable dependency on old OTDT package", Build & Compilation Issues
+"the current ICE build has graphical errors in the toolbar. The toolbar itself has a black outline on the right and bottom sides, and empty space is inserted between some buttons. The error does not seem to happen in Linux. ",UI & Display Issues
+UI freeze when changing a view through tab.,UI & Display Issues
+Double click on a file in staged changes will make the other files disappear,UI & Display Issues
+Model Explorer doesn't comply with themes. This also affects theme depiction in Properties View.,UI & Display Issues
+Dark mode shows black text on black background,UI & Display Issues
+[xtend][outline] Icons are hardly visible on dark theme,UI & Display Issues
+"PartInitException whenever attempting to open terminal, resulting in blank view",UI & Display Issues
+[Activity Explorer] Performance/blinking issues at refreshing the editor,Performance & Resource Issues
+Windows10 Defender significantly slows down and freezes Eclipse,Performance & Resource Issues
+After minutes of use it takes time 10-30 seconds to load resources due waiting for background operation ,Performance & Resource Issues
+CPU usage spikes frequently many times while running Eclipse ,Performance & Resource Issues
+"Memory slowly increase using mqtt v3 java client, especially when connection broken and reconnect happens",Performance & Resource Issues
+Memory leak in SwingControl module                                                                            performance,Performance & Resource Issues
+"Stop / undeploy Birt webviewer causes memory leaks in tomcat,jboss and glassfish",Performance & Resource Issues
+Rebuilding Workspace with AspectJ Projects cause OutOfMemoryError resource failure,Performance & Resource Issues
